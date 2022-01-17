@@ -1,4 +1,4 @@
-# learnhelper
+# learnhelper 📚
 
 learnhelper is a program to help you to learn a set of topics. By providing a order in which you should learn and repeat each topic based on its difficulty and how long you have not reviewed each topic.
 
